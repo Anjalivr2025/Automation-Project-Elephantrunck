@@ -38,5 +38,5 @@ ElephantTrunk-Automation/
 │ └── homepage.png
 └── README.md
 ## 👤 Author
-**Anjali Radhakrishnan**  
+**Anjali V.R**  
 *QA Automation Engineer*  
